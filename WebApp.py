@@ -7,7 +7,7 @@ import plotly.express as px
 DATA_URL = (
 "https://drive.google.com/file/d/11coJ1dFLQf2eIwyqhzTSz_JVVBtiC-3J/view?usp=sharing"
 )
-##This is a location of dataset which I uploaded on Google Drive
+##This is a location of dataset which I uploaded to Google Drive
 
 
 st.title("Motor Vehicle Collisions in New York City")
